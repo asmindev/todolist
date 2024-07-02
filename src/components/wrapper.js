@@ -13,9 +13,7 @@ export default function Wrapper({ children }) {
                     <footer className="h-16 flex items-center justify-center">
                         <h1 className="text-gray-500 text-sm">
                             Made with <span className="text-red-500">❤</span> by{" "}
-                            <a href="https://instagram.com/iniasmin_">
-                                iniasmin_
-                            </a>
+                            <a href="#">kelompok 7</a>
                         </h1>
                     </footer>
                 </section>
